@@ -1,0 +1,28 @@
+.author-page{
+    margin-top: 64px;
+    width: 100%;
+}
+.AuthorTitle{
+    width: 100%;
+    background: #f6f6f6;
+    overflow: hidden;
+}
+.authorTitle{
+    width: 70%;
+    margin: 10px auto;
+    background-image:url("https://static.zhihu.com/heifetz/guide-cover-5.2b2adaebc37bf48bacae.jpg");
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 0 1px 3px rgba(26,26,26,.1);
+}
+.authorContent{
+    width: 70%;
+    margin: 0px auto;
+    box-shadow: 0 1px 3px rgba(26,26,26,.1);
+}
+.authorArticles{
+    padding: 13px;
+    background: #fff;
+    box-shadow: 0 1px 3px rgba(26,26,26,.1);
+}

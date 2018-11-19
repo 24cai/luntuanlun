@@ -1,0 +1,18 @@
+.msg-page{
+    margin-top: 80px;
+    width: 100%;
+}
+.MsgPage{
+    width: 50%;
+    margin: 0 auto;
+    background: #fff;
+}
+.MsgPage h1{
+    text-align: center;
+}
+.MsgPage .newContent{
+    padding: 5px 20px;
+}
+.MsgPage .newContent .yidubtn{
+    margin-top: 13px;
+}

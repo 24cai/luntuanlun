@@ -1,0 +1,12 @@
+.search-page{
+    margin-top: 80px;
+    width: 100%;
+}
+.SearchPage{
+    width: 70%;
+    margin: 0 auto;
+    background: #fff;
+}
+.SearchPage h1{
+    text-align: center;
+}

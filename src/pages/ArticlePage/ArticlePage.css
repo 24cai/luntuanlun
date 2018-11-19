@@ -1,0 +1,17 @@
+.article-page{
+    margin-top: 64px;
+    width: 100%;
+}
+.ArticleTitle{
+    width: 100%;
+    background: #fff;
+}
+.articleTitle{
+    width: 70%;
+    margin: 0 auto;
+}
+.ArticleCotent{
+    width: 70%;
+    margin: 0.5% auto;
+    background: #fff;
+}

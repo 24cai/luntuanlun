@@ -1,0 +1,60 @@
+.header-nav{
+    background: #fff !important;
+    padding: 5px 0;
+    margin-bottom: 5px;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    box-shadow: 0 1px 3px rgba(26,26,26,.1);
+    z-index: 100;
+    overflow: hidden;
+}
+.header-nav .solid{
+    position: relative;
+    top:0px;
+    transition: top 1s linear;
+}
+
+.header-content{
+    width: 70%;
+    margin: 0 auto;
+}
+.header-content img{
+    position: relative;
+    top: -8px;
+}
+.header-content .Menu-l{
+    font-size: 16px;
+    border: none;
+    padding-top: 9px;
+    line-height: 40px;
+}
+.header-content .ant-input{
+    height: 35px;
+    margin-right: 5px;
+    width: 80%;
+    transition: width .35s linear;
+}
+.header-content .Menu-r{
+    font-size: 20px;
+    border: none;
+    padding-top: 5px;
+    line-height: 40px;
+}
+.header-content .Menu-r .fa{
+    color: gray;
+}
+.header-content .ant-input-search-button{
+
+}
+.change{
+    position: relative;
+    top: -65px;
+}
+.focused{
+    width: 100%!important;
+}
+
+.ant-input-focused{
+    width: 95%;
+}

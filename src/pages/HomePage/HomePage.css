@@ -1,0 +1,52 @@
+ .home-page{
+     margin-top: 80px;
+     width: 100%;
+ }
+ .HomePage{
+     width: 70%;
+     margin: 0 auto;
+     /*background: #fff;*/
+ }
+ .home-page .H-content{
+     padding: 13px;
+     background: #fff;
+     box-shadow: 0 1px 3px rgba(26,26,26,.1);
+ }
+ .home-page .H-sider{
+    overflow: hidden;
+     position: fixed;
+     right: 15%;
+     top: 80px;
+     width: 21%;
+ }
+ .home-page .H-sider i{
+     display: block;
+     font-size: 20px;
+     margin-left: 8px;
+ }
+
+ .home-page .H-sider .ant-menu-horizontal > .ant-menu-item, .ant-menu-horizontal > .ant-menu-submenu{
+     border: none !important;
+     line-height: 36px;
+     margin-left: 8px;
+     width: 33%;
+ }
+ .home-page .H-sider .ant-menu-horizontal {
+    padding: 15px 7px;
+     background: #fff;
+     width: 100%;
+ }
+ .home-page .H-sider .H-sider-t{
+     background: #fff;
+     overflow: hidden;
+     margin-bottom: 20px ;
+     box-shadow: 0 1px 3px rgba(26,26,26,.1);
+ }
+ .home-page .H-sider .H-sider-t button{
+     padding-bottom: 54px;
+     padding-top: 10px;
+     text-align: center;
+ }
+ .UserSlider i{
+     display: inline-block !important;
+ }
